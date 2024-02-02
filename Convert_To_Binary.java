@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Binary {
+public class Convert_To_Binary {
     public static void main(String args[]) {
 
         int decimal_num, quot, i = 1, j;
