@@ -1,0 +1,6 @@
+Cairo 10 100
+Jeddah 12 144
+Kuwait 8 80
+Amman 9 99
+Jeddah 12 120
+Cairo 10 100
