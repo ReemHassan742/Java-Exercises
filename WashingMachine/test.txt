@@ -1,0 +1,6 @@
+Toshiba 2022 6
+Samsung 2021 10
+Bosch 2023 9
+Beko 2022 8
+Bosch 2020 9
+Beko 2022 8
